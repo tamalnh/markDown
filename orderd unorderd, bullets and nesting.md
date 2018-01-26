@@ -17,7 +17,7 @@
         * vue
         * react
         
-```codeblocks
+```js
 
     function simpleSum (a,b){
         this.x = a;
